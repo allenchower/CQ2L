@@ -1,4 +1,5 @@
-# CQ2L 
+CQ2L 
+The official code of our ECAI 2025 paper **Conservative Query and Adaptive Regularization forOffline RL under Uncertainty Estimation**
 
 We provide the complete code implementation and experiments records, including the Morse neural network models and the training logs. The oracle models are not provided due to their excessive sizes. Should access to the oracle models be necessary, they can be reproduced upon request.
 
